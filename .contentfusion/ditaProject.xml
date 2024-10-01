@@ -19,7 +19,8 @@
         <context idref="IukfVpqKsJWNBFd"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+            <param name="webhelp.publishing.template" value="cf://templates/Astatine"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
 </project>
