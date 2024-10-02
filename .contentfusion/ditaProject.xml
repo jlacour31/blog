@@ -5,4 +5,11 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="d-Blog-1727850202824" name="Blog">
+        <context idref="IukfVpqKsJWNBFd"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
